@@ -1,5 +1,3 @@
-package Com.acc;
-
 public class Account {
 	
 	private int acc_no = 1234567;
