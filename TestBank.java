@@ -1,6 +1,4 @@
-package Com.run;
-import Com.acc.*; 
-import Com.logic.*;
+
 public class TestBank 
 {
 	public static void main(String[] args) {
