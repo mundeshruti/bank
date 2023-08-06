@@ -1,6 +1,3 @@
-package Com.logic;
-
-import Com.acc.Account;
 
 public class Withdraw {
 	
